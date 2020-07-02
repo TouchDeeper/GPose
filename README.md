@@ -6,11 +6,13 @@ Robust pose estimation of objects with feature ambiguity based on point cloud.
 # Getting Started
 ## Prerequisites
 - Eigen3
+- Sophus
 - PCL
 - OpenCV: modify the [`OpenCV_DIR`](https://github.com/TouchDeeper/TdLib/blob/dev/src/CMakeLists.txt#L8) to your path
 
 - OpenMP
-- [TdLib](https://github.com/TouchDeeper/TdLib): modify the [`TdLib_DIR`](https://github.com/TouchDeeper/TdLib/blob/dev/src/CMakeLists.txt#L8) to your path
+- Boost
+- [TdLib](https://github.com/TouchDeeper/TdLib): modify the [`TdLib_DIR`](https://github.com/TouchDeeper/GPose/blob/36d8dcdd93ca701be0a06f220a7747766273ca32/CMakeLists.txt#L25) to your path
 - [nlohmann_json](https://github.com/nlohmann/json)
 ## Usage
 - add model and generate the offline data, skip to `add_model/README.md` to know how to.
