@@ -22,9 +22,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fabbe48c-b8a7-4b92-b769-5b337770916b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,19 +64,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/include/Matching.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1064">
-              <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
-              <folding>
-                <element signature="e#104#130#0" expanded="true" />
-                <element signature="e#511#536#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/access_model_data.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1311">
@@ -108,7 +93,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
@@ -117,13 +102,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="171">
-                <caret line="9" column="156" selection-start-line="9" selection-start-column="156" selection-end-line="9" selection-end-column="156" />
+              <first_editor relative-caret-position="19">
+                <caret line="1" column="46" lean-forward="true" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -318,6 +313,11 @@
               <item name="object_pose_estimation" type="b2602c69:ProjectViewProjectNode" />
               <item name="pose_estimation" type="462c0819:PsiDirectoryNode" />
               <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="object_pose_estimation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pose_estimation" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="object_pose_estimation" type="b2602c69:ProjectViewProjectNode" />
@@ -759,12 +759,12 @@
       <workItem from="1591443321148" duration="13000" />
       <workItem from="1591590723564" duration="846000" />
       <workItem from="1591679000310" duration="23000" />
-      <workItem from="1593674764419" duration="3837000" />
+      <workItem from="1593674764419" duration="4715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="359026000" />
+    <option name="totallyTimeSpent" value="359904000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -776,21 +776,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-4" width="1920" height="1084" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.81268436" visible="true" weight="0.22970085" />
-      <window_info id="Structure" order="1" sideWeight="0.18731563" side_tool="true" visible="true" weight="0.22970085" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.81375" visible="true" weight="0.22970085" />
+      <window_info id="Structure" order="1" sideWeight="0.18625" side_tool="true" visible="true" weight="0.22970085" />
       <window_info id="Favorites" order="2" sideWeight="0.50308645" side_tool="true" weight="0.19551282" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33877552" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30816326" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30816326" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.18431772" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.18367347" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32959184" />
       <window_info anchor="bottom" id="CMake" order="11" weight="0.33061224" />
@@ -912,11 +911,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/add_model/normal_utility.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-89" />
-      </provider>
-    </entry>
     <entry file="file:///usr/local/include/pcl-1.9/pcl/registration/impl/registration.hpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
@@ -1281,20 +1275,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="9" column="156" selection-start-line="9" selection-start-column="156" selection-end-line="9" selection-end-column="156" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="24" column="13" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="46" lean-forward="true" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

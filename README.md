@@ -1,6 +1,7 @@
 # Overview
-This is a object pose estimation based on PCL.
+Robust pose estimation of objects with feature ambiguity based on point cloud. 
 
+[Presentation video](https://youtu.be/H6Rpz66P_sE)
 
 # Getting Started
 ## Prerequisites
