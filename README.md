@@ -1,7 +1,10 @@
 # Overview
 Robust pose estimation of objects with feature ambiguity based on point cloud. 
 
+Youtube video, If you cannot link to youtube, try [bilibili](https://www.bilibili.com/video/BV1ya4y1h7iX/).
 [![video](https://res.cloudinary.com/marcomontalbano/image/upload/v1593691440/video_to_markdown/images/youtube--H6Rpz66P_sE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=H6Rpz66P_sE&feature=youtu.be "video")
+
+
 
 # Getting Started
 ## Prerequisites
