@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="object_pose_estimation" targetName="localLib" />
+      <config projectName="object_pose_estimation" targetName="show_candidate" />
+      <config projectName="object_pose_estimation" targetName="data_process" />
+      <config projectName="object_pose_estimation" targetName="check_view_graph" />
+      <config projectName="object_pose_estimation" targetName="globalPipeline" />
+      <config projectName="object_pose_estimation" targetName="check_result" />
+      <config projectName="object_pose_estimation" targetName="libdataprocess" />
+      <config projectName="object_pose_estimation" targetName="libalignbug" />
+      <config projectName="object_pose_estimation" targetName="point_pick" />
+      <config projectName="object_pose_estimation" targetName="bug_test2" />
+      <config projectName="object_pose_estimation" targetName="local_pipeline" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fabbe48c-b8a7-4b92-b769-5b337770916b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="object_pose_estimation" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/global_pipeline.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Matching.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2432">
+              <caret line="128" column="63" selection-start-line="128" selection-start-column="63" selection-end-line="128" selection-end-column="63" />
+              <folding>
+                <element signature="e#1#22#0" expanded="true" />
+                <element signature="e#246#279#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/CLionProjects/TdLibrary/install/include/TdLibrary/PCL/viewer.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view_graph/view_graph.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9006">
+              <caret line="474" column="12" selection-start-line="474" selection-start-column="12" selection-end-line="474" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/Matching.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1064">
+              <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+              <folding>
+                <element signature="e#104#130#0" expanded="true" />
+                <element signature="e#511#536#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/access_model_data.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1311">
+              <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/GlobalCorrespondence.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3534">
+              <caret line="186" column="41" selection-start-line="186" selection-start-column="41" selection-end-line="186" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/view_graph/view_graph.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1216">
+              <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+              <folding>
+                <element signature="e#45#90#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1501">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/SceneDataStructure.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>td::VectorVector6d</find>
+      <find>boundary</find>
+      <find>view.ShowCorrespondence(&amp;</find>
+      <find>scene2</find>
+      <find>estimatepose</find>
+      <find>Eigen</find>
+      <find>td::VectorMatrix4d</find>
+      <find>td::VectorVector3d</find>
+      <find>LoadResult</find>
+      <find>base_dir</find>
+      <find>cmp</find>
+      <find>switch</find>
+      <find>Config_Reader</find>
+      <find>cr.</find>
+      <find>cr_.</find>
+      <find>VERBOSE</find>
+      <find>relative_m</find>
+      <find>relative_matrix</find>
+      <find>ac_</find>
+      <find>ac_.</find>
+      <find>path_to</find>
+      <find>ifstream</find>
+      <find>exist</find>
+      <find>filters.hpp</find>
+      <find>filter.hpp</find>
+      <find>No directory found for</find>
+      <find>ERROR: No directory found for</find>
+      <find>ERROR: No directory</find>
+      <find>qui</find>
+      <find>objectPoseEstimation/src/src/pose_estimation</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>localPipeline</replace>
+      <replace>final_result_icp_-&gt;</replace>
+      <replace>final_result_fine_icp_.-&gt;</replace>
+      <replace>final_result_fine_icp_-&gt;</replace>
+      <replace>${config_path}</replace>
+      <replace>Sophus::SE3d</replace>
+      <replace>sophus::SE3d</replace>
+      <replace>#include &lt;TdLibrary/tool/random_tool.h&gt;</replace>
+      <replace>#include &lt;TdLibrary/PCL/local_features.h&gt;</replace>
+      <replace>#include &lt;TdLibrary/slam_tool/motion_transformation.h&gt;</replace>
+      <replace>#include &lt;TdLibrary/PCL/tools.h&gt;</replace>
+      <replace>#include &lt;TdLibrary/tool/tic_toc.h&gt;</replace>
+      <replace>#include &lt;TdLibrary/FileOperation/FileOperation.h&gt;</replace>
+      <replace>#include &lt;TdLibrary/openGA/src/openga.hpp&gt;</replace>
+      <replace>#include &lt;TdLibrary/PCL/filter.h&gt;</replace>
+      <replace>#include &lt;TdLibrary/PCL/Viewer.h&gt;</replace>
+      <replace>#include &lt;TdLibrary/PCL/global_feature.h&gt;</replace>
+      <replace>#include &lt;TdLibrary/PCL/enveloping.hpp&gt;</replace>
+      <replace>#include &lt;TdLibrary/PCL/icp_related.h&gt;</replace>
+      <replace>#include &lt;TdLibrary/td_eigen/eigen_tools.h&gt;</replace>
+      <replace>#include &lt;TdLibrary/tool/random_tool.hpp&gt;</replace>
+      <replace>#include &lt;TdLibrary/td_eigen/eigen_common_typedef.h&gt;</replace>
+      <replace>rotationMatrix()</replace>
+      <replace>td::VecVec6</replace>
+      <replace>td::VecMat4</replace>
+      <replace>td::VecMat3</replace>
+      <replace>cr_-&gt;</replace>
+      <replace>cr-&gt;</replace>
+      <replace>ac_-&gt;</replace>
+      <replace>pose_estimation</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/result/banana/report.txt" />
+        <option value="$PROJECT_DIR$/result/banana/report_mutate_by_chromosomes.txt" />
+        <option value="$PROJECT_DIR$/result/banana/report_non_uniform.txt" />
+        <option value="$PROJECT_DIR$/result/banana/report_uniform.txt" />
+        <option value="$PROJECT_DIR$/src/GlobalCorrespondence.cpp" />
+        <option value="$PROJECT_DIR$/test/data_process.cpp" />
+        <option value="$PROJECT_DIR$/include/Result.h" />
+        <option value="$PROJECT_DIR$/test/point_pick.cpp" />
+        <option value="$PROJECT_DIR$/test/show_candidate.cpp" />
+        <option value="$PROJECT_DIR$/test/Test.cpp" />
+        <option value="$PROJECT_DIR$/test/bug_test.cpp" />
+        <option value="$PROJECT_DIR$/test/sophus_average.cpp" />
+        <option value="$PROJECT_DIR$/test/Test.h" />
+        <option value="$PROJECT_DIR$/localPipeline.cpp" />
+        <option value="$PROJECT_DIR$/include/common_typedef.h" />
+        <option value="$PROJECT_DIR$/script/run_joystick_scene1_whole_pipeline.sh" />
+        <option value="$PROJECT_DIR$/script/run_joystick_scene2_whole_pipeline.sh" />
+        <option value="$PROJECT_DIR$/include/sample_consensus_prerejective.h" />
+        <option value="$PROJECT_DIR$/config.ini" />
+        <option value="$PROJECT_DIR$/include/ModelDataStructure.h" />
+        <option value="$PROJECT_DIR$/include/DataProcessor.h" />
+        <option value="$PROJECT_DIR$/src/bug_src.cpp" />
+        <option value="$PROJECT_DIR$/test/bug_test2.cpp" />
+        <option value="$PROJECT_DIR$/script/run_joystick_scene1_fine_registration.sh" />
+        <option value="$PROJECT_DIR$/script/is_localPipeline_exist.sh" />
+        <option value="$PROJECT_DIR$/script/run_loop_whole_pipeline_and_fine_registration.sh" />
+        <option value="$PROJECT_DIR$/script/run_loop_whole_pipeline.sh" />
+        <option value="$PROJECT_DIR$/script/run_loop_fine_registration.sh" />
+        <option value="$PROJECT_DIR$/include/DataProcessor.hpp" />
+        <option value="$PROJECT_DIR$/src/DataProcessor.cpp" />
+        <option value="$PROJECT_DIR$/test/check_results.cpp" />
+        <option value="$PROJECT_DIR$/include/sample_consensus_prerejective.hpp" />
+        <option value="$PROJECT_DIR$/script/run_offline_data_generation.sh" />
+        <option value="$PROJECT_DIR$/test/check_view_graph.cpp" />
+        <option value="$PROJECT_DIR$/add_model/offline_data_generation.cpp" />
+        <option value="$PROJECT_DIR$/include/Optimization.h" />
+        <option value="$PROJECT_DIR$/src/Optimization.cpp" />
+        <option value="$PROJECT_DIR$/include/match/LocalPipe.h" />
+        <option value="$PROJECT_DIR$/src/config_reader.cpp" />
+        <option value="$PROJECT_DIR$/src/parameters.cpp" />
+        <option value="$PROJECT_DIR$/include/parameters.h" />
+        <option value="$PROJECT_DIR$/include/config_reader.h" />
+        <option value="$PROJECT_DIR$/include/access_model_data.h" />
+        <option value="$PROJECT_DIR$/include/view_graph/view_graph.h" />
+        <option value="$PROJECT_DIR$/src/view_graph/view_graph.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/match/LocalPipe.cpp" />
+        <option value="$PROJECT_DIR$/src/access_model_data.cpp" />
+        <option value="$PROJECT_DIR$/include/Matching.h" />
+        <option value="$PROJECT_DIR$/src/Matching.cpp" />
+        <option value="$PROJECT_DIR$/global_pipeline.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="-11" />
+    <option name="width" value="1922" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectId" id="1UZDtDSiFYlkz4z70cJVhWxNpWM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="object_pose_estimation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pose_estimation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="object_pose_estimation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pose_estimation" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="object_pose_estimation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pose_estimation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/script" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/include" />
+      <recent name="$PROJECT_DIR$/data/scene_data/joystick/real" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/include" />
+      <recent name="$PROJECT_DIR$/result/joystick/whole_pipe" />
+      <recent name="$PROJECT_DIR$/result/banana/fine_registration" />
+      <recent name="$PROJECT_DIR$/result/joystick" />
+      <recent name="$PROJECT_DIR$/result/banana" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.globalPipeline">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_pose_estimation" RUN_TARGET_NAME="globalPipeline" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bug_test2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_pose_estimation" TARGET_NAME="bug_test2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_pose_estimation" RUN_TARGET_NAME="bug_test2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check_result" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_pose_estimation" TARGET_NAME="check_result" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_pose_estimation" RUN_TARGET_NAME="check_result">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check_view_graph" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_pose_estimation" TARGET_NAME="check_view_graph" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_pose_estimation" RUN_TARGET_NAME="check_view_graph">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="data_process" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_pose_estimation" TARGET_NAME="data_process" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_pose_estimation" RUN_TARGET_NAME="data_process">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="globalPipeline" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_pose_estimation" TARGET_NAME="globalPipeline" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_pose_estimation" RUN_TARGET_NAME="globalPipeline">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libalignbug" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_pose_estimation" TARGET_NAME="libalignbug" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libdataprocess" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_pose_estimation" TARGET_NAME="libdataprocess" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="localLib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_pose_estimation" TARGET_NAME="localLib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="local_pipeline" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_pose_estimation" TARGET_NAME="local_pipeline" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_pose_estimation" RUN_TARGET_NAME="local_pipeline">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="point_pick" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_pose_estimation" TARGET_NAME="point_pick" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_pose_estimation" RUN_TARGET_NAME="point_pick">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="show_candidate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_pose_estimation" TARGET_NAME="show_candidate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_pose_estimation" RUN_TARGET_NAME="show_candidate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Build All" />
+      <item itemvalue="CMake Application.bug_test2" />
+      <item itemvalue="CMake Application.check_result" />
+      <item itemvalue="CMake Application.check_view_graph" />
+      <item itemvalue="CMake Application.data_process" />
+      <item itemvalue="CMake Application.globalPipeline" />
+      <item itemvalue="CMake Application.libalignbug" />
+      <item itemvalue="CMake Application.libdataprocess" />
+      <item itemvalue="CMake Application.localLib" />
+      <item itemvalue="CMake Application.local_pipeline" />
+      <item itemvalue="CMake Application.point_pick" />
+      <item itemvalue="CMake Application.show_candidate" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fabbe48c-b8a7-4b92-b769-5b337770916b" name="Default" comment="" />
+      <created>1553231213093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553231213093</updated>
+      <workItem from="1553231214379" duration="8976000" />
+      <workItem from="1553783159362" duration="425000" />
+      <workItem from="1554730838105" duration="7406000" />
+      <workItem from="1554776546073" duration="2946000" />
+      <workItem from="1554802351267" duration="200000" />
+      <workItem from="1555038888022" duration="374000" />
+      <workItem from="1555041275551" duration="4090000" />
+      <workItem from="1555054415827" duration="9885000" />
+      <workItem from="1555064333513" duration="4000" />
+      <workItem from="1555079720504" duration="1914000" />
+      <workItem from="1555125005665" duration="5497000" />
+      <workItem from="1555139033911" duration="8203000" />
+      <workItem from="1555147318518" duration="10745000" />
+      <workItem from="1555243674522" duration="2699000" />
+      <workItem from="1555294686890" duration="10532000" />
+      <workItem from="1555316900261" duration="3758000" />
+      <workItem from="1555329547799" duration="10347000" />
+      <workItem from="1555399020151" duration="599000" />
+      <workItem from="1555927621623" duration="2050000" />
+      <workItem from="1555930765539" duration="3013000" />
+      <workItem from="1555934933255" duration="2425000" />
+      <workItem from="1556071395663" duration="3217000" />
+      <workItem from="1556090158513" duration="79000" />
+      <workItem from="1556090497377" duration="5751000" />
+      <workItem from="1556117805276" duration="26000" />
+      <workItem from="1556117861751" duration="1487000" />
+      <workItem from="1556168153353" duration="626000" />
+      <workItem from="1556290871994" duration="73000" />
+      <workItem from="1556456654008" duration="2885000" />
+      <workItem from="1556500736247" duration="4548000" />
+      <workItem from="1556506996075" duration="4159000" />
+      <workItem from="1556517297481" duration="796000" />
+      <workItem from="1556533920339" duration="7542000" />
+      <workItem from="1557019662963" duration="740000" />
+      <workItem from="1557020938847" duration="4370000" />
+      <workItem from="1557040947244" duration="16425000" />
+      <workItem from="1557108926587" duration="5682000" />
+      <workItem from="1557378397683" duration="12705000" />
+      <workItem from="1557409602612" duration="3598000" />
+      <workItem from="1557466923412" duration="7872000" />
+      <workItem from="1557544583797" duration="4467000" />
+      <workItem from="1557642239429" duration="2730000" />
+      <workItem from="1557714859570" duration="2091000" />
+      <workItem from="1557982061902" duration="2571000" />
+      <workItem from="1558075907337" duration="4972000" />
+      <workItem from="1558141520408" duration="11265000" />
+      <workItem from="1558227998530" duration="28876000" />
+      <workItem from="1558313133435" duration="29028000" />
+      <workItem from="1558399394208" duration="22024000" />
+      <workItem from="1558437867884" duration="1745000" />
+      <workItem from="1558685291701" duration="56000" />
+      <workItem from="1558687892126" duration="318000" />
+      <workItem from="1558689679486" duration="27000" />
+      <workItem from="1558689764050" duration="286000" />
+      <workItem from="1559620294469" duration="10956000" />
+      <workItem from="1559698245661" duration="4413000" />
+      <workItem from="1559782621530" duration="17170000" />
+      <workItem from="1559869064800" duration="317000" />
+      <workItem from="1559876990769" duration="17038000" />
+      <workItem from="1560043216320" duration="13406000" />
+      <workItem from="1560130604290" duration="1666000" />
+      <workItem from="1560218462488" duration="4619000" />
+      <workItem from="1560391281035" duration="26218000" />
+      <workItem from="1560430695274" duration="4683000" />
+      <workItem from="1560473613685" duration="2131000" />
+      <workItem from="1560562372009" duration="19080000" />
+      <workItem from="1560653250768" duration="2998000" />
+      <workItem from="1563116138809" duration="1124000" />
+      <workItem from="1565074243486" duration="24000" />
+      <workItem from="1565448545363" duration="748000" />
+      <workItem from="1565511818954" duration="21000" />
+      <workItem from="1565770832592" duration="439000" />
+      <workItem from="1567940049362" duration="1345000" />
+      <workItem from="1567991891565" duration="612000" />
+      <workItem from="1568039427069" duration="1490000" />
+      <workItem from="1568077184362" duration="7160000" />
+      <workItem from="1568087468509" duration="8946000" />
+      <workItem from="1568162378359" duration="14581000" />
+      <workItem from="1568191208583" duration="3399000" />
+      <workItem from="1568251666593" duration="5956000" />
+      <workItem from="1568357977573" duration="715000" />
+      <workItem from="1568426793783" duration="4000" />
+      <workItem from="1568528675608" duration="18146000" />
+      <workItem from="1568595904664" duration="7880000" />
+      <workItem from="1568634002305" duration="9098000" />
+      <workItem from="1568683041911" duration="18637000" />
+      <workItem from="1568768730667" duration="9218000" />
+      <workItem from="1568854436511" duration="224000" />
+      <workItem from="1568888707285" duration="921000" />
+      <workItem from="1568908427341" duration="274000" />
+      <workItem from="1568957542020" duration="633000" />
+      <workItem from="1569031009816" duration="23100000" />
+      <workItem from="1569113098783" duration="32505000" />
+      <workItem from="1569199867832" duration="32368000" />
+      <workItem from="1569287004799" duration="14204000" />
+      <workItem from="1569373791743" duration="3514000" />
+      <workItem from="1569379439136" duration="47000" />
+      <workItem from="1569379648132" duration="140000" />
+      <workItem from="1569493332126" duration="10000" />
+      <workItem from="1569669164964" duration="13611000" />
+      <workItem from="1569719384091" duration="25826000" />
+      <workItem from="1569760916693" duration="24000" />
+      <workItem from="1569920312330" duration="686000" />
+      <workItem from="1569939018198" duration="1787000" />
+      <workItem from="1570090380675" duration="2000" />
+      <workItem from="1570165321043" duration="643000" />
+      <workItem from="1570242655794" duration="2109000" />
+      <workItem from="1570250836633" duration="1225000" />
+      <workItem from="1570540553439" duration="72000" />
+      <workItem from="1570608073397" duration="7012000" />
+      <workItem from="1570622191208" duration="6077000" />
+      <workItem from="1570632005219" duration="1020000" />
+      <workItem from="1570762836542" duration="16133000" />
+      <workItem from="1570797351637" duration="1553000" />
+      <workItem from="1570843366554" duration="10802000" />
+      <workItem from="1571228901765" duration="362000" />
+      <workItem from="1571230816056" duration="124000" />
+      <workItem from="1571231160333" duration="2601000" />
+      <workItem from="1571537151643" duration="2145000" />
+      <workItem from="1571539985199" duration="12255000" />
+      <workItem from="1571641763706" duration="12600000" />
+      <workItem from="1571664443499" duration="1494000" />
+      <workItem from="1571666021332" duration="3720000" />
+      <workItem from="1571708957547" duration="13797000" />
+      <workItem from="1571751799593" duration="1552000" />
+      <workItem from="1571791853030" duration="15552000" />
+      <workItem from="1571838917060" duration="6755000" />
+      <workItem from="1571912595954" duration="7551000" />
+      <workItem from="1571967002450" duration="10585000" />
+      <workItem from="1571986240229" duration="24799000" />
+      <workItem from="1572137697486" duration="27253000" />
+      <workItem from="1572177151266" duration="31233000" />
+      <workItem from="1572312121914" duration="168000" />
+      <workItem from="1572312295936" duration="23729000" />
+      <workItem from="1572396191637" duration="32834000" />
+      <workItem from="1572482040924" duration="20028000" />
+      <workItem from="1572533757194" duration="196000" />
+      <workItem from="1572571598273" duration="5765000" />
+      <workItem from="1572579288421" duration="12184000" />
+      <workItem from="1572603387740" duration="97000" />
+      <workItem from="1572605566158" duration="2072000" />
+      <workItem from="1572655098476" duration="37000" />
+      <workItem from="1572655211092" duration="45000" />
+      <workItem from="1572658100203" duration="2121000" />
+      <workItem from="1572944986149" duration="6514000" />
+      <workItem from="1573002084483" duration="7703000" />
+      <workItem from="1573542421482" duration="6796000" />
+      <workItem from="1573554735458" duration="7098000" />
+      <workItem from="1573692704747" duration="3000" />
+      <workItem from="1573906950820" duration="3681000" />
+      <workItem from="1574039562459" duration="32214000" />
+      <workItem from="1574083561053" duration="2977000" />
+      <workItem from="1574126719023" duration="20181000" />
+      <workItem from="1574167999680" duration="9429000" />
+      <workItem from="1574210889649" duration="10254000" />
+      <workItem from="1574236342000" duration="157000" />
+      <workItem from="1574236546610" duration="16846000" />
+      <workItem from="1574325158835" duration="250000" />
+      <workItem from="1574325449026" duration="28000" />
+      <workItem from="1574513513095" duration="8809000" />
+      <workItem from="1574556449423" duration="17083000" />
+      <workItem from="1574594470161" duration="12872000" />
+      <workItem from="1574643845103" duration="5532000" />
+      <workItem from="1574657510836" duration="7698000" />
+      <workItem from="1574735862645" duration="17799000" />
+      <workItem from="1574846621991" duration="12428000" />
+      <workItem from="1574865290499" duration="195000" />
+      <workItem from="1575033333029" duration="1651000" />
+      <workItem from="1575035151175" duration="1740000" />
+      <workItem from="1575074211772" duration="5939000" />
+      <workItem from="1575082174146" duration="10538000" />
+      <workItem from="1575111070746" duration="777000" />
+      <workItem from="1575116597013" duration="7007000" />
+      <workItem from="1575167911984" duration="27468000" />
+      <workItem from="1575250653372" duration="2295000" />
+      <workItem from="1575265959711" duration="5809000" />
+      <workItem from="1575278998650" duration="6000" />
+      <workItem from="1575279021755" duration="1222000" />
+      <workItem from="1575336447971" duration="1875000" />
+      <workItem from="1575338349638" duration="763000" />
+      <workItem from="1575342430215" duration="2000" />
+      <workItem from="1575342585575" duration="11000" />
+      <workItem from="1575365275352" duration="2487000" />
+      <workItem from="1575373445106" duration="954000" />
+      <workItem from="1575374589445" duration="785000" />
+      <workItem from="1575375453706" duration="20000" />
+      <workItem from="1575377696897" duration="594000" />
+      <workItem from="1575378487158" duration="134000" />
+      <workItem from="1575423118626" duration="3098000" />
+      <workItem from="1575428073687" duration="11117000" />
+      <workItem from="1575457912130" duration="5722000" />
+      <workItem from="1575467106405" duration="1865000" />
+      <workItem from="1575506311532" duration="317000" />
+      <workItem from="1575510575656" duration="3903000" />
+      <workItem from="1575514493474" duration="602000" />
+      <workItem from="1575534473115" duration="1289000" />
+      <workItem from="1575555440507" duration="24000" />
+      <workItem from="1575555479433" duration="89000" />
+      <workItem from="1575599022415" duration="1000" />
+      <workItem from="1575599027549" duration="1978000" />
+      <workItem from="1575602863890" duration="1687000" />
+      <workItem from="1575611541959" duration="4000" />
+      <workItem from="1575612381249" duration="30000" />
+      <workItem from="1575720118979" duration="6201000" />
+      <workItem from="1575730829742" duration="933000" />
+      <workItem from="1575766035462" duration="8573000" />
+      <workItem from="1575874612043" duration="87000" />
+      <workItem from="1575874821480" duration="37000" />
+      <workItem from="1575966514233" duration="14953000" />
+      <workItem from="1576025134235" duration="10494000" />
+      <workItem from="1576043289063" duration="11135000" />
+      <workItem from="1576119337271" duration="20570000" />
+      <workItem from="1576164197053" duration="168000" />
+      <workItem from="1576164465968" duration="160000" />
+      <workItem from="1576200964024" duration="6557000" />
+      <workItem from="1576221094558" duration="995000" />
+      <workItem from="1576285449051" duration="124000" />
+      <workItem from="1576291712173" duration="1808000" />
+      <workItem from="1576297996654" duration="1921000" />
+      <workItem from="1576311696992" duration="5093000" />
+      <workItem from="1576371578449" duration="5560000" />
+      <workItem from="1576417728216" duration="1654000" />
+      <workItem from="1576637122504" duration="2815000" />
+      <workItem from="1576676383125" duration="5337000" />
+      <workItem from="1576716653690" duration="2512000" />
+      <workItem from="1576936236550" duration="3000" />
+      <workItem from="1577370184394" duration="147000" />
+      <workItem from="1577370429339" duration="3351000" />
+      <workItem from="1577407466739" duration="6912000" />
+      <workItem from="1577494309525" duration="3250000" />
+      <workItem from="1577540351473" duration="93000" />
+      <workItem from="1577667843347" duration="2312000" />
+      <workItem from="1577686491003" duration="3000" />
+      <workItem from="1577686605600" duration="500000" />
+      <workItem from="1577712062039" duration="381000" />
+      <workItem from="1577713853686" duration="1383000" />
+      <workItem from="1577866042102" duration="4986000" />
+      <workItem from="1577878499783" duration="4615000" />
+      <workItem from="1577925473703" duration="1537000" />
+      <workItem from="1578034150981" duration="18000" />
+      <workItem from="1578192226309" duration="1009000" />
+      <workItem from="1578201020982" duration="1503000" />
+      <workItem from="1578210700148" duration="612000" />
+      <workItem from="1578214824044" duration="5539000" />
+      <workItem from="1578226736877" duration="731000" />
+      <workItem from="1578228680853" duration="6177000" />
+      <workItem from="1578237452295" duration="4480000" />
+      <workItem from="1578278826196" duration="10019000" />
+      <workItem from="1578291668630" duration="1726000" />
+      <workItem from="1578296534978" duration="9631000" />
+      <workItem from="1578308804337" duration="3710000" />
+      <workItem from="1578366743865" duration="5714000" />
+      <workItem from="1578376360723" duration="7404000" />
+      <workItem from="1578384714412" duration="6517000" />
+      <workItem from="1578394685684" duration="8129000" />
+      <workItem from="1578442853272" duration="25001000" />
+      <workItem from="1578479230786" duration="4588000" />
+      <workItem from="1578494471385" duration="884000" />
+      <workItem from="1578530317212" duration="5076000" />
+      <workItem from="1578713990663" duration="1405000" />
+      <workItem from="1578885742555" duration="10000" />
+      <workItem from="1586440990020" duration="305000" />
+      <workItem from="1586752149939" duration="1623000" />
+      <workItem from="1586832957352" duration="9000" />
+      <workItem from="1586850399086" duration="68000" />
+      <workItem from="1587627379138" duration="4434000" />
+      <workItem from="1590044693613" duration="729000" />
+      <workItem from="1590375457013" duration="7839000" />
+      <workItem from="1590394813903" duration="1487000" />
+      <workItem from="1590482552913" duration="2641000" />
+      <workItem from="1590551780479" duration="12437000" />
+      <workItem from="1590584506815" duration="2451000" />
+      <workItem from="1590639171343" duration="27000" />
+      <workItem from="1590988017397" duration="8092000" />
+      <workItem from="1591062947242" duration="8796000" />
+      <workItem from="1591074732200" duration="9433000" />
+      <workItem from="1591150787431" duration="3202000" />
+      <workItem from="1591155541264" duration="8339000" />
+      <workItem from="1591175003571" duration="41000" />
+      <workItem from="1591175059819" duration="926000" />
+      <workItem from="1591239035432" duration="6708000" />
+      <workItem from="1591250438788" duration="10686000" />
+      <workItem from="1591325821508" duration="4658000" />
+      <workItem from="1591340939215" duration="7374000" />
+      <workItem from="1591369940666" duration="643000" />
+      <workItem from="1591417750918" duration="616000" />
+      <workItem from="1591443321148" duration="13000" />
+      <workItem from="1591590723564" duration="846000" />
+      <workItem from="1591679000310" duration="23000" />
+      <workItem from="1593674764419" duration="1741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="356930000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.81213015" visible="true" weight="0.22970085" />
+      <window_info id="Structure" order="1" sideWeight="0.18786982" side_tool="true" visible="true" weight="0.22970085" />
+      <window_info id="Favorites" order="2" sideWeight="0.50308645" side_tool="true" weight="0.19551282" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33877552" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3102041" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.18431772" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32959184" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.33061224" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.33877552" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="make" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32959402" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1769" y="297" key="FileChooserDialogImpl" timestamp="1575555565687">
+      <screen x="1080" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1769" y="297" key="FileChooserDialogImpl/1080.0.1920.1080/0.24.1080.1896@1080.0.1920.1080" timestamp="1575555565687" />
+    <state x="1650" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1575555479785">
+      <screen x="1080" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1650" y="369" key="com.intellij.ide.util.TipDialog/1080.0.1920.1080/0.24.1080.1896@1080.0.1920.1080" timestamp="1575555479785" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/match/LocalPipe.cpp</url>
+          <line>107</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/include/sample_consensus_prerejective.hpp</url>
+          <line>171</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/Optimization.cpp</url>
+          <line>511</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$USER_HOME$/CLionProjects/TdLibrary/install/include/TdLibrary/openga.hpp</url>
+          <line>474</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$USER_HOME$/CLionProjects/TdLibrary/install/include/TdLibrary/openga.hpp</url>
+          <line>405</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$USER_HOME$/CLionProjects/TdLibrary/install/include/TdLibrary/openga.hpp</url>
+          <line>1358</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/Matching.cpp</url>
+          <line>385</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/match/LocalPipe.cpp</url>
+          <line>134</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/Optimization.cpp</url>
+          <line>554</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/match/LocalPipe.cpp</url>
+          <line>998</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/match/LocalPipe.cpp</url>
+          <line>227</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/GlobalCorrespondence.cpp</url>
+          <line>31</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/Matching.cpp</url>
+          <line>284</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/view_graph/view_graph.cpp</url>
+          <line>522</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/Matching.cpp</url>
+          <line>365</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/GlobalCorrespondence.cpp</url>
+          <line>43</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/GlobalCorrespondence.cpp</url>
+          <line>275</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/GlobalCorrespondence.cpp</url>
+          <line>61</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/Test.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_model/normal_utility.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/pcl-1.9/pcl/registration/impl/registration.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="153" column="53" selection-start-line="153" selection-start-column="53" selection-end-line="153" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/CLionProjects/TdLibrary/install/include/TdLibrary/tool/tic_toc.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="171">
+            <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/sample_consensus_prerejective.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10108">
+          <caret line="532" column="26" selection-start-line="532" selection-start-column="14" selection-end-line="532" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/run_loop_whole_pipeline.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/run_loop_dynamic_thread.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="68" column="27" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/check_results.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataProcessor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/run_joystick_scene1_whole_pipeline.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/wang/File/dataset/ycbv/dataset_info.md" />
+    <entry file="file://$PROJECT_DIR$/script/is_globalPipeline_exist.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local_pipeline.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/check_view_graph.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/run_offline_data_generation.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Optimization.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Optimization.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2598">
+          <caret line="519" column="31" selection-start-line="519" selection-start-column="31" selection-end-line="519" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/x86_64-linux-gnu/c++/5/bits/gthr-default.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="775" selection-start-line="775" selection-end-line="775" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/config_reader.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4085">
+          <caret line="215" column="38" selection-start-line="215" selection-start-column="38" selection-end-line="215" selection-end-column="38" />
+          <folding>
+            <element signature="e#49#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config_reader.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/parameters.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#127#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parameters.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="e#37#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/access_model_data.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1444">
+          <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/add_model/render_synthetic_views.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="191" column="8" selection-start-line="191" selection-start-column="8" selection-end-line="191" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_model/render_views_tesselated_sphere_modified.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4674" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_model/offline_data_generation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="92" column="20" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bop_toolkit/docs/bop_challenge_2019_re-evaluation_27-01-2020.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bop_toolkit/docs/bop_datasets_format.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1064">
+            <caret line="56" column="70" selection-start-line="56" selection-start-column="70" selection-end-line="56" selection-end-column="70" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/CLionProjects/TdLibrary/install/include/TdLibrary/FileOperation/FileOperation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/match/LocalPipe.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="122" column="9" selection-start-line="122" selection-start-column="9" selection-end-line="122" selection-end-column="9" />
+          <folding>
+            <element signature="e#159#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/pcl-1.9/pcl/visualization/impl/pcl_visualizer.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="625" column="35" selection-start-line="625" selection-start-column="35" selection-end-line="625" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/pcl-1.9/pcl/io/pcd_io.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="720" column="4" selection-start-line="720" selection-start-column="4" selection-end-line="720" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GlobalCorrespondence.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8702">
+          <caret line="458" column="18" selection-start-line="458" selection-start-column="18" selection-end-line="458" selection-end-column="18" />
+          <folding>
+            <element signature="e#39#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/CLionProjects/TdLibrary/install/include/TdLibrary/PCL/filter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/CLionProjects/TdLibrary/install/include/TdLibrary/PCL/filter.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <folding>
+            <element signature="e#1367#1387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/match/LocalPipe.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10127">
+          <caret line="533" column="44" selection-start-line="533" selection-start-column="44" selection-end-line="533" selection-end-column="44" />
+          <folding>
+            <element signature="e#77#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/CLionProjects/TdLibrary/install/include/TdLibrary/PCL/cluster_segmentation.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/CLionProjects/TdLibrary/install/include/TdLibrary/PCL/tools.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/ModelDataStructure.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Matching.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2432">
+          <caret line="128" column="63" selection-start-line="128" selection-start-column="63" selection-end-line="128" selection-end-column="63" />
+          <folding>
+            <element signature="e#1#22#0" expanded="true" />
+            <element signature="e#246#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/CLionProjects/TdLibrary/install/include/TdLibrary/PCL/viewer.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view_graph/view_graph.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9006">
+          <caret line="474" column="12" selection-start-line="474" selection-start-column="12" selection-end-line="474" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Matching.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+          <folding>
+            <element signature="e#104#130#0" expanded="true" />
+            <element signature="e#511#536#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/access_model_data.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/GlobalCorrespondence.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3534">
+          <caret line="186" column="41" selection-start-line="186" selection-start-column="41" selection-end-line="186" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/view_graph/view_graph.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+          <folding>
+            <element signature="e#45#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/SceneDataStructure.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/global_pipeline.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
