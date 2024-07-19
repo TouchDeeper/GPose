@@ -30,6 +30,20 @@ Youtube video, If you cannot link to youtube, try [bilibili](https://www.bilibil
     ```
 - `./globalPipeline`
 
+## Citation
+```
+@ARTICLE{10261416,
+  author={Li, Hai and Zeng, Qingfu and Zhuang, Tingda and Huang, Yanjiang and Zhang, Xianmin},
+  journal={IEEE Sensors Journal}, 
+  title={Accurate Pose Estimation of the Texture-Less Objects With Known CAD Models via Point Cloud Matching}, 
+  year={2023},
+  volume={23},
+  number={21},
+  pages={26259-26268},
+  keywords={Point cloud compression;Pose estimation;Solid modeling;Feature extraction;Three-dimensional displays;Genetic algorithms;Data models;Feature ambiguity;iterative closest point (ICP);point cloud matching;pose estimation;texture-less objects},
+  doi={10.1109/JSEN.2023.3316457}}
+```
+
 ## Acknowledgment
 `add_model` part is modified from the [object_identification_localization](https://github.com/Laxen/object_identification_localization) project.
 
